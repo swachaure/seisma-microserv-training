@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAVDOYNDLO4M7MTCEB
+      Secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/351030549213/sqsservicetask1
